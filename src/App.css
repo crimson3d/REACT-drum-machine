@@ -1,0 +1,19 @@
+.drum-machine {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.drum-pad {
+  width: 100px;
+  height: 100px;
+  font-size: 20px;
+}
+
+.control-panel {
+  margin-top: 20px;
+}
+
+.display {
+  font-size: 24px;
+  text-align: center;
+}
